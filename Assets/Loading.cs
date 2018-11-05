@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Loading : MonoBehaviour {
 
 	public Transform LoadingBar;
+	public string levelToLoad;
 	[SerializeField] private float currentAmount;
 	[SerializeField] private float speed;
 	private bool shouldIncrease=false;
@@ -13,7 +14,10 @@ public class Loading : MonoBehaviour {
 	void Update(){
 		if (shouldIncrease == true) {
 			IniciarTimer();	
-		}		
+		}
+		if (currentAmount >= 99) {
+			Application.LoadLevel(levelToLoad);
+		}
 	}
 
 	public void AtivarBool(){

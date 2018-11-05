@@ -2899,6 +2899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LoadingBar: {fileID: 1433059057}
+  levelToLoad: SampleScene
   currentAmount: 0
   speed: 20
 --- !u!114 &1157247147
@@ -4297,6 +4298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LoadingBar: {fileID: 126919585}
+  levelToLoad: Traffic_Case2
   currentAmount: 0
   speed: 20
 --- !u!114 &1491056203
