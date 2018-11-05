@@ -45,3 +45,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Camada 1
+    uniqueID: 3043627629
+    locked: 0
+  - name: Camada 2
+    uniqueID: 2057955355
+    locked: 0
