@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TC13.unity
     guid: 198d9a00d709c044c9bda6790c85ee6e
+  - enabled: 1
+    path: Assets/Scenes/TC14.unity
+    guid: 6ae586cb18fc77f4d9966c09ab555492
   m_configObjects: {}
