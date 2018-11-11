@@ -6,12 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Traffic_Case1.unity
+    path: Assets/Scenes/TC10.unity
     guid: 1a41091737d6592408cd67469f7d1209
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Scenes/Traffic_Case2.unity
+    path: Assets/Scenes/TC11.unity
     guid: a3ca7258d07d63d4b8876a511de040e7
+  - enabled: 1
+    path: Assets/Scenes/TC12.unity
+    guid: 5bf48579478cd944da4fdef021bd4df4
+  - enabled: 1
+    path: Assets/Scenes/TC13.unity
+    guid: 198d9a00d709c044c9bda6790c85ee6e
   m_configObjects: {}

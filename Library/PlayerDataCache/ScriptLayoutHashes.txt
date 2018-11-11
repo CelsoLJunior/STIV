@@ -1,8 +1,10 @@
 Android
 PlayerPath?
-C:/Users/Public/Documents/Unity Projects/test build1/TesteBuildSTIV1.1.apk
+C:/Users/Public/Documents/Unity Projects/test build1/STIV1.0.apk
 SceneListBegin?
 Assets/Scenes/Traffic_Case1.unity
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/Traffic_Case2.unity
 SceneListEnd?
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
 047843e8fc8efc789ac0ebf61a6343c3 Assembly-CSharp.dll:GoogleVR.HelloVR.HeadsetDemoManager
@@ -176,6 +178,7 @@ ec7197ab43ffb42a7321b609332a9861 Assembly-CSharp.dll:.GvrTrackedController
 602eb97b20feedd39c051dee7c2e88de Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarAIControl
 31e91faba2267dbf8c0fe528bca54ff7 Assembly-CSharp.dll:.GvrLaserPointer
 787e2b9ae31dffd9c6c22a49250dbd1c Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarSelfRighting
+b0f6cc6cff8cc0ef8c0b1f2608f79a5c Assembly-CSharp.dll:.Loading
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QueryAnimationController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TrafficControl
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraSystem
