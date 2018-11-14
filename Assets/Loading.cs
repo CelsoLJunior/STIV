@@ -8,7 +8,9 @@ public class Loading : MonoBehaviour {
 	public Transform LoadingBar;
 	public string levelToLoad;
 	[SerializeField] private float currentAmount;
-	[SerializeField] private float speed;
+	// speed = 40 para testes
+	// speed = 10 para crianças
+	private float speed = 40;
 	private bool shouldIncrease=false;
 
 	void Update(){
