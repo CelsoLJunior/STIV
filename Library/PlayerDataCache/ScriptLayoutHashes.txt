@@ -1,9 +1,8 @@
 Android
 PlayerPath?
-C:/Users/Public/Documents/Unity Projects/test build1/STIV2.0.apk
+C:/Users/Public/Documents/Unity Projects/test build1/STIV3.0.apk
 SceneListBegin?
 Assets/Scenes/TC10.unity
-Assets/Scenes/SampleScene.unity
 Assets/Scenes/TC11.unity
 Assets/Scenes/TC12.unity
 Assets/Scenes/TC13.unity
@@ -181,9 +180,9 @@ ec7197ab43ffb42a7321b609332a9861 Assembly-CSharp.dll:.GvrTrackedController
 602eb97b20feedd39c051dee7c2e88de Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarAIControl
 31e91faba2267dbf8c0fe528bca54ff7 Assembly-CSharp.dll:.GvrLaserPointer
 787e2b9ae31dffd9c6c22a49250dbd1c Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarSelfRighting
-b0f6cc6cff8cc0ef8c0b1f2608f79a5c Assembly-CSharp.dll:.Loading
+63438547f4f0c63dc0ee996089614910 Assembly-CSharp.dll:.Loading
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QueryAnimationController
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TrafficControl
+161158af506b3438ea128c170090f780 Assembly-CSharp.dll:.TrafficControl
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraSystem
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -268,5 +267,8 @@ e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:GoogleVR.HelloVR.HelloVRMan
 b2945430dfd6bbdb5d77043b47bf85e7 Assembly-CSharp.dll:.GvrControllerReticleVisual
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
 1994e0ca45f2547c1539af9d03e48908 Assembly-CSharp.dll:.EffectSystem
+8d8d3a76d889545344c9382f80f7c0f7 Assembly-CSharp.dll:.isColliding
 4a74b6c59e8c925283e4d9410eea032e Assembly-CSharp.dll:.TimerSinaleira
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
+3e8b993640727c2d0a88253bce6a2f4e Assembly-CSharp.dll:.olharAtento
+bb06e4b3df2fb61c3a337b5df25200eb Assembly-CSharp.dll:.olharAtentoSinaleira
