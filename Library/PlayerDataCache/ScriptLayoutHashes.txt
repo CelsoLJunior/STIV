@@ -1,13 +1,16 @@
 Android
 PlayerPath?
-C:/Users/Public/Documents/Unity Projects/test build1/STIV3.0.apk
+C:/Users/Public/Documents/Unity Projects/test build1/STIV_Final.apk
 SceneListBegin?
+Assets/Scenes/Menu.unity
 Assets/Scenes/TC10.unity
 Assets/Scenes/TC11.unity
 Assets/Scenes/TC12.unity
 Assets/Scenes/TC13.unity
 Assets/Scenes/TC14.unity
+Assets/Scenes/TC15.unity
 SceneListEnd?
+3e8b993640727c2d0a88253bce6a2f4e Assembly-CSharp.dll:.olharAtento
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
 047843e8fc8efc789ac0ebf61a6343c3 Assembly-CSharp.dll:GoogleVR.HelloVR.HeadsetDemoManager
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -136,6 +139,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 36cd6f8d7e08dc2582ba6f6ba39df992 Assembly-CSharp.dll:GoogleVR.VideoDemo.SwitchVideos
 846f17d2b1fd8b405b1f43993d8e697d Assembly-CSharp.dll:.GvrKeyboard
+89118219c5eb4c8d08a3928bcfb4fe60 Assembly-CSharp.dll:.olharAtentoSinaleira
 a73b871fc3ffb0d8aeaa52859823ebeb Assembly-CSharp.dll:.ItemObject
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarUserControl
 c41ed4958ece7f3531467d97e1bfbd1d Assembly-CSharp.dll:.Player
@@ -270,5 +274,3 @@ d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlay
 8d8d3a76d889545344c9382f80f7c0f7 Assembly-CSharp.dll:.isColliding
 4a74b6c59e8c925283e4d9410eea032e Assembly-CSharp.dll:.TimerSinaleira
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-3e8b993640727c2d0a88253bce6a2f4e Assembly-CSharp.dll:.olharAtento
-bb06e4b3df2fb61c3a337b5df25200eb Assembly-CSharp.dll:.olharAtentoSinaleira

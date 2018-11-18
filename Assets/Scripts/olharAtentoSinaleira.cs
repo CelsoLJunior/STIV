@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class olharAtentoSinaleira : MonoBehaviour {
 
 	[SerializeField] private float currentAmount;
+	public string levelToLoad;
 	// speed = 50 para testes
 	private float speed = 50;
 	private bool shouldIncrease=false;
@@ -31,6 +32,7 @@ public class olharAtentoSinaleira : MonoBehaviour {
 			}
 			if (currentAmount >= 99) {
 				sinaleiraOK = true;
+				Application.LoadLevel(levelToLoad);
 			}	
 		}
 	}

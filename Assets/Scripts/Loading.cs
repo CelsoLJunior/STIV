@@ -10,7 +10,7 @@ public class Loading : MonoBehaviour {
 	[SerializeField] private float currentAmount;
 	// speed = 40 para testes
 	// speed = 10 para crianças
-	private float speed = 40;
+	private float speed = 10;
 	private bool shouldIncrease=false;
 
 	void Update(){

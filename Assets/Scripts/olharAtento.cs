@@ -6,7 +6,7 @@ public class olharAtento : MonoBehaviour {
 
 	[SerializeField] private float currentAmount;
 	// speed = 50 para testes
-	private float speed = 50;
+	private float speed = 60;
 	private bool shouldIncrease=false;
 	public bool sideOK=false;
 
